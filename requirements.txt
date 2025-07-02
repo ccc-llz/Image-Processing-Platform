@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+scipy
+scikit-image
+imageio
+Pillow
+mediapipe
+flask
